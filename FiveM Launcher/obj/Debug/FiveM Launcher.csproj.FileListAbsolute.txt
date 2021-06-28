@@ -1,0 +1,28 @@
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\bin\Debug\OriginX RP.exe.config
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\bin\Debug\OriginX RP.exe.manifest
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\bin\Debug\OriginX RP.application
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\bin\Debug\OriginX RP.exe
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\bin\Debug\OriginX RP.pdb
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MVVM\View\PlayView.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MVVM\View\SettingsView.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\App.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP_Content.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP_MarkupCompile.cache
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP_MarkupCompile.lref
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\App.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MainWindow.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MVVM\View\PlayView.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\MVVM\View\SettingsView.baml
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP.g.resources
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.GenerateResource.cache
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.CoreCompileInputs.cache
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP.exe.manifest
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP.application
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP.exe
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\OriginX RP.pdb
+C:\Users\tiger\Desktop\OriginX\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.AssemblyReference.cache
